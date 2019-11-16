@@ -1,0 +1,25 @@
+server:
+  port: 8888
+
+spring:
+  application:
+    name: cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:RoynniZambrano/springcloud-config-repositorySP.git
+          ignore-local-ssh-settings: true
+          strict-host-key-checking: false
+          search-paths:
+            - configuration/{application}/
+            - configuration/
+          private-key: |
+            ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3RMTiZMruT/VHFcsEPUCrQvpjJhlpsSysD/sISgDHmuhLXzFpVbRIocPHCWcwuEYqixbmunDluMCOuUXN0uHLLbxpP5635zuF0cOep+EqsUldcdIWQ+UfKx5J9LFXlhnEQpuBSxmk6CRK4+2wmYKVgorAiN21l+B/ffof+518xr3SrWiUW8LU83VjyU6qtmnyZReM+lnqcFO/UKz2KN5H+fgCk7m7ScqF0gQKeDEL6aJeUY9EsXVowJdHfj9OoOmpKb0yrZUaDMgepFzkNR44QzdOC44A2tIe43eA5J5MabszBc+tkR1ljxjSW5VmfcQSnbYGiNpNxo1Uon7JvSJq5p2uSN5WEcKIooyQScZH+yUoqQbvNzwCp6E1VCEabXt88AoBXgwUM30Gwk6VGHSDUGRgbOz0C9yke40A5osdX2oJwZ0O0TtXCePhh5FJ+p+W/HF5QYuCix172nJmasTMlUJxUG+50XCwab4231zQ0C+BcnsA+hNq+gwqGBlB7Ca1mJnErOHpJJfhmCesFMIgQLR6Jtf/LqPpVmCZpZ9LjxEc2Ddnw1szrMOhA9wk/t6RATi89YPkxAKKCYhgNQ9NTONvJwzAfAVPhJ9+0xrzlikSltFeTUouNNeQ5uo8ioVHxsmCol+CL/1LjNMzSgSKekze6BJEkJ9MeJUFMC0CCw== roynny51@gmail.com
+            -----Your Private Key-----
+
+eureka:
+  client:
+    registry-fetch-interval-seconds: 5
+    service-url:
+      defaultZone: http://localhost:8700/eureka/
