@@ -15,9 +15,57 @@ spring:
             - configuration/{application}/
             - configuration/
           private-key: |
-            ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3RMTiZMruT/VHFcsEPUCrQvpjJhlpsSysD/sISgDHmuhLXzFpVbRIocPHCWcwuEYqixbmunDluMCOuUXN0uHLLbxpP5635zuF0cOep+EqsUldcdIWQ+UfKx5J9LFXlhnEQpuBSxmk6CRK4+2wmYKVgorAiN21l+B/ffof+518xr3SrWiUW8LU83VjyU6qtmnyZReM+lnqcFO/UKz2KN5H+fgCk7m7ScqF0gQKeDEL6aJeUY9EsXVowJdHfj9OoOmpKb0yrZUaDMgepFzkNR44QzdOC44A2tIe43eA5J5MabszBc+tkR1ljxjSW5VmfcQSnbYGiNpNxo1Uon7JvSJq5p2uSN5WEcKIooyQScZH+yUoqQbvNzwCp6E1VCEabXt88AoBXgwUM30Gwk6VGHSDUGRgbOz0C9yke40A5osdX2oJwZ0O0TtXCePhh5FJ+p+W/HF5QYuCix172nJmasTMlUJxUG+50XCwab4231zQ0C+BcnsA+hNq+gwqGBlB7Ca1mJnErOHpJJfhmCesFMIgQLR6Jtf/LqPpVmCZpZ9LjxEc2Ddnw1szrMOhA9wk/t6RATi89YPkxAKKCYhgNQ9NTONvJwzAfAVPhJ9+0xrzlikSltFeTUouNNeQ5uo8ioVHxsmCol+CL/1LjNMzSgSKekze6BJEkJ9MeJUFMC0CCw== roynny51@gmail.com
-            -----Your Private Key-----
-
+                        -----BEGIN RSA PRIVATE KEY-----
+                        MIIJJwIBAAKCAgEApu0GNf1iBkAxko4DiuO1L6D+eDj7xMMS9hU/Tec9HFO2OgVm
+                        UyDwfIcaIkrgHSwDKikKyhZxXKdr1rRzt4vhBol86O253maTQOkwqt2kSKrc9DRU
+                        Td65ebzKt/9fzi2oVj7nC6kApv2Mz15E/vt1Vc3kl2MKIoGFk3YObkfQomowbBww
+                        LKvuw9PSfzhZYclPfHS8e3zbgjCkKFoXppg0zR9MOsiiiqhRZfjbrQIDMc80F7Qt
+                        bysOl+QXtfrQiBejczSo+gEFJGnOV9auNIDhyeRD9haW2BFGnOQTfTExUsiLehGC
+                        OB/K4nOx0bKI/UpWTrbWNSII8Ej0Wi6B+A2nMYRpIN13IR+e81AyFm/aVsnxv8Hg
+                        3lRQ+WSDgexboo+0sBoblvcK+UMtwwchmsWBb5WHG2nUCV7Pg0dgr0I3RNyigWJa
+                        G5trrH/aZJN8pQPCjp0Z/xvAk44jeVY5t1NYv4FngMdHj6sD6osr0WvVMR9J3y/h
+                        8F7VDuSO9Q3ODt437YiRPsU7HorfNUdGKM6QqPDs5Nnp1ZcKY5eFJI3XzsFZZn+D
+                        8tZHhiZElgGA04rU7LjUJ7yHBeb5ZgPF3IWs7vqIBXQJJ/RhKVvXqToQfE/hh97x
+                        wxxGD28vCvpwPEr8Acgk0R+vJU1jvBTggpmby81HakNjsr6yw3/2NnhaQrMCAwEA
+                        AQKCAgAxXpLirvEp9hxzQutLTbONxajdd8UG2ccm3vvdF5IcaanQmT49QdW+jtqs
+                        38ZO+nBpLMBTKrYWeDHNy4sZ8xX3r/wwi/bYDzBoF0/ciTcIgvhchYmVilUC61Jt
+                        fusf+KL79xiweyiFOyJFRpVTcJ2wZffAynr536LZDSaReU38azmtD90zqRox8tkj
+                        5U+SO071+TSxtSja5XX3tUWfcQ7Ux/fsvuBL8CI67ZJTJfA58BVxGUoCwhJL3Bsj
+                        KG46gftGnIGJh3m03lI36neVcbTV2Fw9UUsF1n4y8sXM1hrHaCbQUJNZ9BU2So+B
+                        /LLFbxH9r9fE2S8ZmgojDfREoA0dfof9F2RaXVEXPB1FrtA3ibxdm8eZVI2xBNYr
+                        171EK5vQPvSedtVcAeNpzoZN3g3W8F+8pneKvZg4XdPUBmFTtlv7E0Hum2vH7PuO
+                        56c5+3a8sfrDlu5GZaeexE+MMJt3OUAUvVY3pHOGoMGA6Z6QLZ9bN/RpoD0mUcEL
+                        1pvlQ1smN9zJdek31X4YbZjXWpK2+5lJHOedkwdrjcp4PLBupgIhwtA+s10+MjCf
+                        TcdAU2fnaYOpzoWUmvN3QrvX15cXXGy+xFOgzJNkgeK73tjFAUhagxQfLzcJglLx
+                        aHO/AkgBTnrkA/IZJ8DuwgYVLhrcJnoPTGox5oZSNVrfK4Sq8QKCAQEA3L7LHEph
+                        +sk7ROcWFHbBNMcYRwpRLLAYdpEJgkzg5SJqWeSwTQ19tDMgE3SdA/5KV+tJ2kf5
+                        +8siNyh1RguXQgpJezF7XXC6tnJOKlqXQ+GawXslvLIB31ryKOEnABoH5UKOaJqx
+                        DmxSUkzisClVCZ8Z+yb6jg3FaJUS5v6FLf6d3zuXw93Zo6qBMy32XUWi7bRcZqBM
+                        fvP6QMHNZbSDiBUeYrt+D9ss9A5z9/B8kX4op+Ow9TeqKgWcYD1ImCbW9xYPSiwd
+                        KCcKJEvYFpAKDe5zlle/mOktasyAnZqkI+EbmyRFRjZdm3qMMEqq7+MGkyvYNZ9s
+                        pfOGVLzmXzho6QKCAQEAwZXQykg1SfR4xxihf/z4krl5m8LzOE8ktADpDHEZshLL
+                        y9oc95Kz2GuNEWQbeyxcAlaBba5AXxTxGmnIZfHGhGxgigUIna0igxwy8v2bIEv7
+                        0AFNmdT0L1Fni9Pw74UkPrX29eNPmxWUVd9mMV6tlCk1FQmM0ieuTErZt3LxLbqT
+                        /ySwJhyYe9SKgWi11ob6XAYwpQsVmYHmMwldsT+vdmFoO9IJuH14mQVJCJ5ngENh
+                        N1G0yPtzInoeKfHBHjUUd5BL6yY1tME/CxLQQmKxH9fZIormox+yR9e1Ef+4U2O0
+                        O2VJQnuUJfNMF2WAHxvqVeFUIYgfd/TkIOUEGOxNOwKCAQAhYf0nZxxQJ9R9xBCz
+                        wY3QZHeIbsf94Reh/qcYfHXaUQ0SUSJUVMD42m50YsNIElG94AhIKXBlor+m5chu
+                        clxKkXGxXrdQVzb1Vm35u796dYjIz83SLn1YANH0WrBiNI2THzCYIyS5kKoWZig2
+                        CdohXV05fRiRGQYMndbA9ia/4OyRENsPtOIv/R4S1lWWn2xXVFpQ7tcCr/TdjDF6
+                        uwTVNJRmzAHxdezjb7gb+9Nq0VBmq2lcfDGQr06Jw1rSH7WMolpnlipGozjGam3g
+                        Y6IRn0j9qIGCJ2lF6G1e6D8Aag+Zs6+CQcCAPdUrjG8zXfrlkNDesyBkLGLZN8QD
+                        DG3ZAoIBABnB5VYE5ZJBhRB4poRxFGHxa8zd057aaPfKZzfQlKqs9ZDaJKCMVIGn
+                        Tc3SlBV/gX6OJAqD9OyxzKLHEHMACHn2MaIrqUnRj5YCWoUaWVmiwo6anciqHRNu
+                        sWhZeuVjwb7WV1XAOQdZh7MlVmObRV1BXl6+No5/2SEtlGpkUNLU0HxSVV280E0p
+                        qoQteoRg0U8NQ8ux/d2++vIvfNfosV/+9e9/sutpRnKV0XHkIcFfNcA2judvDZK4
+                        zOqn0BpE1cRS3sca/mpejBTdG/i5SPgDsFB4StfJj98fRGhwrgXqbkC46VZ/OucR
+                        yD4Us0dwX22t3ZPYmNdNLk1yK2llh6ECggEAetZM0os0ozG/SU/bewxfhHlTH1Q0
+                        ViBzF3ntsmdE+Bcw4byMLX2FN0FJoM3lVPK0pUZC4HQ31blNUmmSDr6L0TxiCGNS
+                        9P6rZXdY3JAkinG9Mzl8C53qoeyE5hl0UZ1a0F7DXlSSXl5iLmAenl014hyvWZf7
+                        Lv1CGaeZhGa+WlBCzV6y5TZ3pKxzbHlKJIAzRczycD80PCqhvJKJbd+dFGTcoFOa
+                        LRrw1PuVTn+1Uuxsra3rPIYS2OWfU6y8LQt6WH69mnBNftDLh90yjSGkkX2ywj8/
+                        /lxHihZ69mZfD18P2b5xYJXRKuGxoOykG11D36xE4VHm/4r5b9SXT9D37Q==
+                        -----END RSA PRIVATE KEY-----
 eureka:
   client:
     registry-fetch-interval-seconds: 5
