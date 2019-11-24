@@ -1,0 +1,29 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: admission-service
+  cloud:
+    config:
+      uri: http://localhost:8888
+  data:
+    cassandra:
+      keyspace-name: royforthewin
+      port: 9042
+      contact-points: localhost
+      username: cassandra
+      password: cassandra
+
+eureka:
+  client:
+    registry-fetch-inteval-seconds: 5
+    service-url:
+      defaultZone: http://localhost:8700/eureka/
+
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: hystrix.stream
