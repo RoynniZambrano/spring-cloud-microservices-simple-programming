@@ -1,0 +1,12 @@
+server:
+  port: 7700
+      
+spring:
+  application:
+    name: admin-server
+
+eureka:
+  client:
+    registry-fetch-interval-seconds: 5
+    service-url:
+      defaultZone: http://localhost:8700/eureka/

@@ -4,9 +4,6 @@ server:
 spring:
   application:
     name: log-service
-  cloud:
-    config:
-      uri: http://localhost:8888
   data:
     cassandra:
       keyspace-name: royforthewin
@@ -25,5 +22,5 @@ management:
   endpoints:
     web:
       exposure:
-        include: hystrix.stream
+        include: "*"
 
