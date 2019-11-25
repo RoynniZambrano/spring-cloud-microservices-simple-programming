@@ -1,9 +1,8 @@
 server:
-  port: 8001
+  port: ${PORT:0}
 spring:
   application:
     name: admission-service
-
   data:
     cassandra:
       keyspace-name: royforthewin
@@ -17,8 +16,8 @@ eureka:
     registry-fetch-inteval-seconds: 5
     service-url:
       defaultZone: http://localhost:8700/eureka/
-
-
+  instance:
+    instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
 
 management:
   endpoints:
